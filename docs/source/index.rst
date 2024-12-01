@@ -1,22 +1,10 @@
-Welcome to Lumache's documentation!
+ChessBot Documentation by OtterLabs!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**ChessBot** is a discord  bot used for getting advanced statistics from chess.com into your discord server. 
+`Add ChessBot <https://discord.com/api/oauth2/authorize?client_id=1076621730442924197&permissions=545394781431&scope=bot>`
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
-
+The ChessBot Documentation is coming soon
 .. note::
 
-   This project is under active development.
-
-Contents
---------
-
-.. toctree::
-
-   usage
-   api
+   This project is under active development. 
