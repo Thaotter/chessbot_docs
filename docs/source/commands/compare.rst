@@ -37,10 +37,7 @@ Notes
 * Usernames are not case-sensitive
 * The order of usernames affects their position in the comparison image
 * If any specified user doesn't exist on Chess.com, you'll receive an error message
-* The command automatically adjusts the layout based on how many players you're comparing:
-   * Two players: side-by-side comparison
-   * Three players: three-column layout
-   * Four players: 2x2 grid layout
+* The command automatically adjusts the layout based on how many players you're comparing
 
 Troubleshooting
 --------------
