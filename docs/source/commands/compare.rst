@@ -25,7 +25,6 @@ Features
 * Side-by-side comparison of player ratings
 * Visual representation with different layouts based on number of players
 * Shows current ratings, win/loss/draw records, and total games
-* Displays country flags and titles (GM, IM, etc.) if applicable
 
 Examples
 --------
