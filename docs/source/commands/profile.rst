@@ -23,7 +23,6 @@ Features
 * Provides social statistics (followers, friends)
 * Shows player location and country flag
 * Displays titles (GM, IM, etc.) if applicable
-* Shows streamer status and Twitch info if available
 
 Examples
 --------
