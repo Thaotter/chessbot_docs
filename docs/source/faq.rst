@@ -98,7 +98,7 @@ Delays can occur due to:
 
 Who can I contact for support?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-For additional help or to report issues, join the `ChessBot Support Server <https://discord.gg/chessbot>`_ (replace with actual link).
+For additional help or to report issues, join the `ChessBot Support Server <https://discord.gg/tAEBJPYd3a>`_ 
 
 Server Administration
 ------------------
