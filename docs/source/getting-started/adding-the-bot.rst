@@ -16,7 +16,7 @@ Invitation Process
 
 1. **Visit the ChessBot Invitation Page**
    
-   * Click on the `official invitation link <https://discord.com/api/oauth2/authorize?client_id=YOUR_CLIENT_ID&permissions=268437504&scope=bot%20applications.commands>`_ (replace with actual link)
+   * Click on the `official invitation link <https://discord.com/api/oauth2/authorize?client_id=1076621730442924197&permissions=545394781431&scope=bot>`_ 
    * You may need to log in to Discord if you haven't already
 
 2. **Select Your Server**
@@ -71,4 +71,4 @@ If you encounter issues when adding ChessBot:
 * **Can't see bot in member list** - Check your server's integration settings and ensure the bot isn't hidden
 * **Permission errors** - Make sure the bot has all the necessary permissions listed above
 
-For further assistance, join the `ChessBot Support Server <https://discord.gg/chessbot>`_ (replace with actual link).
+For further assistance, join the `ChessBot Support Server <https://discord.gg/tAEBJPYd3a>`_ 
