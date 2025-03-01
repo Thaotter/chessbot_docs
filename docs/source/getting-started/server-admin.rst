@@ -104,4 +104,4 @@ Common Issues
    * If you see permission errors, review your server's role hierarchy
    * Make sure ChessBot has all necessary permissions
 
-For additional help with server administration, join the `ChessBot Support Server <https://discord.gg/chessbot>`_ (replace with actual link).
+For additional help with server administration, join the `ChessBot Support Server <https://discord.gg/tAEBJPYd3a>`_ 
